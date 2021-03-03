@@ -16,7 +16,7 @@
 * None available
 
 ## Repo
-* [Repo](hhttps://github.com/delmymm/Del.Mel-Homework-13)
+* [Repo](https://github.com/delmymm/Del.Mel-Homework-13)
 
 ## Contributors
 * Contributor: [Delmy Melendez](https://github.com/delmymm)
